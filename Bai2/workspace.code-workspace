@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "../lab43"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shopee-f8",
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
